@@ -65,4 +65,4 @@ abstract: 混迹硅谷江湖十余年之见闻
 * 扭转乾坤：乔帮主的现实扭曲力场
 * 如来神掌：如果平级的人搞不定，你可知有一套从天而降的掌法？escalate 问题到上级
 
-你在硅谷见到了哪些有趣有用的武功套路或者一招半式？欢迎 Fork 并提交 PR，或者 Star 以跟进未来更新
+你在硅谷见到了哪些有趣有用的武功套路或者一招半式？欢迎[在我们的 Github repo](https://github.com/puncsky/sv-essence-of-martial-arts) Fork 并提交 PR，或者 Star 以跟进未来更新
